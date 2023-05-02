@@ -24,7 +24,6 @@ h1{
     color: rgb(83, 172, 228);
 }
 
-
 .photos, p{
     margin: 0;
     margin-bottom: 15px;
@@ -33,7 +32,6 @@ h1{
 .main-text{
     font-size: 20px;
 }
-
 .text-highlighted{
     background-color: yellow;
 }
@@ -47,15 +45,33 @@ h1{
 .right{
     width: 50%;
 }
-
 .first-row{
     background-color: rgb(83, 172, 228);
     text-align: left;
 }
-
 .second-row, .fourth-row{
     background-color: rgb(148, 227, 233);
 }
 
 
+.box-photo{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 250px;
+    height: 200px;
+}
+.monitor{
+    background-image: url(img/monitor.jpg);
+}
+.graph{
+    background-image: url(img/graph.jpg);
+}
 
+h3{
+    color: white;
+}
+
+.title-footer{
+    color: grey;
+}
