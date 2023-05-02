@@ -8,3 +8,29 @@
     height: 150px;
 }
 
+h1{
+    font-size: 60px;
+    margin-bottom: 0;
+}
+
+.subtitle{
+    font-size: 20px;
+}
+
+#booleaner{
+    color: rgb(83, 172, 228);
+}
+
+
+.photos, p{
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.main-text{
+    font-size: 20px;
+}
+
+.text-highlighted{
+    background-color: yellow;
+}
