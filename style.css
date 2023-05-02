@@ -34,3 +34,9 @@ h1{
 .text-highlighted{
     background-color: yellow;
 }
+
+.row{
+    text-align: left;
+    padding-right: 200px;
+}
+
